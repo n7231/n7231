@@ -7,5 +7,6 @@ I am passionate about learning and growing more on Technology field. I love to m
 - 👯 I’m looking to collaborate on any web and mobile application project.
 - 📫 How to reach me: itaniaanni@gmail.com . My Linkedin: https://www.linkedin.com/in/tania-islam-499b47156/
 
-Languages and tools 
-HTML, CSS, Javascript, React.js, Node.js, Java, Python, Wordpress
+Languages and tools :
+
+HTML, CSS, Javascript, React.js, Node.js, Java, Python, Wordpress, illustrator, adobe photoshop, VS code.
