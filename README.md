@@ -9,4 +9,4 @@ I am passionate about learning and growing more on Technology field. I love to m
 
 Languages and tools :
 
-HTML, CSS, Javascript, React.js, Node.js, Java, Python, Wordpress, illustrator, adobe photoshop, VS code.
+HTML, CSS, Javascript, React.js, Node.js, Java, illustrator, adobe photoshop, VS code.
