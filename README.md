@@ -3,7 +3,7 @@
 I am passionate about learning and I want to grow more on Technology field. I love to make design and web application. 
 
 - 🔭 I’m currently working on One website from my job try out work. And along with that I always do self study project. 
-- 🌱 I’m currently learning Flutter and more about React.
+- 🌱 I’m currently learning more about React and python.
 - 👯 I’m looking to collaborate on any web and mobile application project.
 - 📫 How to reach me: itaniaanni@gmail.com . My Linkedin: https://www.linkedin.com/in/tania-islam-499b47156/
 
