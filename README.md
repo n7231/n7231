@@ -1,6 +1,6 @@
 ### Hi there , I am Tania👋
 
-I am passionate about learning and I want to grow more on Technology field. I love to make design and web application. I would love to develop my career as a security consultant.
+I am passionate about learning and I want to grow more on Technology field. I love to make web application. I would love to develop my career as a developer and consultant in Tech field.
 
 - 🔭 I’m currently working on a real time project mostly as a frontend developer and do testing. And along with that I always do self study project. 
 - 🌱 I’m currently learning AWS,DevOps and some more about cloud service.
