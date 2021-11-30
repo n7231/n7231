@@ -2,9 +2,9 @@
 
 I am passionate about learning and I want to grow more on Technology field. I love to make web application. I would love to develop my career as a developer and consultant in Tech field.
 
-- 🔭 I’m currently working on a real time project mostly as a full-stack developer and do testing. And along with that I always do self study project. 
-- 🌱 I’m currently learning Azure, AWS,DevOps and some more about cloud service.
-- 👯 I’m looking to collaborate on any web and mobile application project.
+- 🔭 I’m currently working as an Application engineer. And along with that I always do self study project. 
+- 🌱 I’m currently learning package manager,docker and kubernetes and some more about application engineering.
+- 👯 I’m looking to collaborate on any project depends on my interest.
 - 📫 How to reach me: itaniaanni@gmail.com . 
       -> Linkedin: https://www.linkedin.com/in/tania-islam-499b47156/ 
       -> Codepen: https://codepen.io/n7231
@@ -12,4 +12,4 @@ I am passionate about learning and I want to grow more on Technology field. I lo
 
 Languages and tools :
 
-HTML, CSS, Javascript, React.js, Node.js, Java, Azure, illustrator, adobe photoshop, VS code.
+HTML, CSS, Javascript, React.js, Node.js, Java, AWS, Docker, shell scripting, VS code.
