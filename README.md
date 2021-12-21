@@ -6,7 +6,7 @@ I am passionate about learning and I want to grow more on Technology field. I wo
 - 🌱 I’m currently learning package manager,docker and kubernetes and some more about application engineering.
 - 👯 I’m looking to collaborate on any project depends on my interest.
 - 📫 How to reach me: itaniaanni@gmail.com . 
-      -> Linkedin: https://www.linkedin.com/in/tania-islam-499b47156/ 
+      -> Linkedin: https://www.linkedin.com/in/tania-islam-sw-ae-sd-sm/
       -> Codepen: https://codepen.io/n7231
       -> Medium: https://itaniaanni.medium.com/
 
